@@ -1,4 +1,5 @@
-
+## This project was given at the University of Chicago for their Data Engineering Class
+This project was completed with a partner.
 ## AttendanceChimp: An Electronic Class Attendance Tool
 AttendanceChimp is a web application that is designed to help college instructors keep track of attendance in their classes. The application uses a unique method to track attendance, which involves the use of a random QR code projected on a screen at the start of each class.
 
